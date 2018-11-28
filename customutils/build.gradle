@@ -1,7 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.rahulgiradkargit tag -a v1.4 -m “my version 1.4”\n' +
-        'git push origin v1.4'
+group='com.github.rahulgiradkar'
 android {
     compileSdkVersion 28
 
